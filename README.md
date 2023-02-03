@@ -8,18 +8,18 @@ Portfolio: https://nhoang1122.github.io/
 
 Project Deployed On: 
 
-*"Marketable"* is a Full-Stack Game Application. Users sign in or register with an Email and a Password. User will then play the classic game TETRIS, using AWSD keys for movement.   
+*"Marketable"* is a Full-Stack Fully Responsive ECommerce DashBoard Application. Users can keep track of their Revenue Budget, Earnings, Orders, and Customer Reports. Users have a Built In Calendar and a Kanban App to organize tasks. 
 
 #### Technologies
-React, Custom Hooks, CSS, FireBase
+React, JavaScript, CSS, TailWind
 
-![LogIn](./public/ScreenShots/LogIn.png)
-![Welcome](./public/ScreenShots/Welcome.png)
-![Tetris](./public/ScreenShots/Tetris.png)
-![GameOver](./public/ScreenShots/GameOver.png)
+![ECommerce](./public/ScreenShots/ECommerce.png)
+![Orders](./public/ScreenShots/Orders.png)
+![Employees](./public/ScreenShots/Employees.png)
+
 
 #### Version 2.0
 
 
 ###### ScoreBoard
-In the future, I'd like to add a ScoreBoard DataBase to store ALL the users' scores and display the top 3. 
+In the future, I'd like to add a 
