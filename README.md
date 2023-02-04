@@ -13,13 +13,24 @@ Project Deployed On:
 #### Technologies
 React, JavaScript, CSS, TailWind
 
-![ECommerce](./public/ScreenShots/ECommerce.png)
+![ECommerce](./public/ScreenShots/EComm.png)
 ![Orders](./public/ScreenShots/Orders.png)
 ![Employees](./public/ScreenShots/Employees.png)
-
-
+![Customers](./public/ScreenShots/Customers.png)
+![Calendar](./public/ScreenShots/Calendar.png)
+![Kanban](./public/ScreenShots/Kanban.png)
+![NotePad](./public/ScreenShots/NotePad.png)
+![ColorPicker](./public/ScreenShots/ColorPicker.png)
+![Line](./public/ScreenShots/Line.png)
+![Area](./public/ScreenShots/Area.png)
+![Bar](./public/ScreenShots/Bar.png)
+![Pie](./public/ScreenShots/Pie.png)
+![Financial](./public/ScreenShots/Financial.png)
+![ColorMap](./public/ScreenShots/ColorMap.png)
+![Pyramid](./public/ScreenShots/Pyramid.png)
+![Stacked](./public/ScreenShots/Stacked.png)
 #### Version 2.0
 
 
-###### ScoreBoard
-In the future, I'd like to add a 
+###### TimeSheet
+In the future, I'd like to add a TimeSheet Option for Employees
