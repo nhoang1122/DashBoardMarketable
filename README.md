@@ -6,14 +6,14 @@ LinkedIn: https://www.linkedin.com/in/nhathoangdev/
 
 Portfolio: https://nhoang1122.github.io/
 
-Project Deployed On: 
+Project Deployed On: https://dash-board-marketable.vercel.app/
 
 *"Marketable"* is a Full-Stack Fully Responsive ECommerce DashBoard Application. Users can keep track of their Revenue Budget, Earnings, Orders, and Customer Reports. Users have a Built In Calendar and a Kanban App to organize tasks. 
 
 #### Technologies
 React, JavaScript, CSS, TailWind
 
-![ECommerce](./public/ScreenShots/EComm.png)
+![EComm](./public/ScreenShots/EComm.png)
 ![Orders](./public/ScreenShots/Orders.png)
 ![Employees](./public/ScreenShots/Employees.png)
 ![Customers](./public/ScreenShots/Customers.png)
